@@ -1,0 +1,5 @@
+config HW_INFO
+  bool CONFIG_HW_INFO
+  default n
+
+
